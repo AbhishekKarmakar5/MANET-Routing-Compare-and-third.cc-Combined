@@ -13,3 +13,5 @@ In order to run:-
 -waf --run scratch/test.cc
 
 -waf --run scratch/test2.cc
+
+Please refer to link : -https://github.com/AbhishekKarmakar5/Getting-Started-with-ns-3 before proceeding further.
